@@ -1,6 +1,6 @@
 # PhiShing-Paypal
 
-https://github.com/user-attachments/assets/32993dc2-b2c3-40df-b9dd-83b9e23831ba
+Uploading PHISHING PAYPAL.mp4…
 
 Those who log in will save information in a .txt file and then send the information to Telegram as you saw in the video.
 
